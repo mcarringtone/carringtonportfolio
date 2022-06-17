@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/carringtonportfolio/static/css/main.cb9de6cb.css",
-    "main.js": "/carringtonportfolio/static/js/main.c9f65d3d.js",
+    "main.js": "/carringtonportfolio/static/js/main.058ed95a.js",
     "static/media/recipegenerator.png": "/carringtonportfolio/static/media/recipegenerator.cf0ffb8229b199ef895f.png",
     "static/media/ecommercesite.png": "/carringtonportfolio/static/media/ecommercesite.72c97a9abcc397597957.png",
     "static/media/react.png": "/carringtonportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/carringtonportfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/carringtonportfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/logo.png": "/carringtonportfolio/static/media/logo.7ed42caf1761f7568a18.png",
+    "static/media/logo.png": "/carringtonportfolio/static/media/logo.dd850a8c2558169460b8.png",
     "static/media/github.png": "/carringtonportfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/carringtonportfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/carringtonportfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
@@ -16,10 +16,10 @@
     "static/media/javascript.png": "/carringtonportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/carringtonportfolio/index.html",
     "main.cb9de6cb.css.map": "/carringtonportfolio/static/css/main.cb9de6cb.css.map",
-    "main.c9f65d3d.js.map": "/carringtonportfolio/static/js/main.c9f65d3d.js.map"
+    "main.058ed95a.js.map": "/carringtonportfolio/static/js/main.058ed95a.js.map"
   },
   "entrypoints": [
     "static/css/main.cb9de6cb.css",
-    "static/js/main.c9f65d3d.js"
+    "static/js/main.058ed95a.js"
   ]
 }
